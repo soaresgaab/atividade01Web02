@@ -1,0 +1,10 @@
+{
+  "nome": "Gabrielly",
+  "email": "gaby@gmail.com",
+  "enderecos": [
+    {
+      "cidade": "Uberlândia",
+      "estado": "Minas Gerais"
+    }
+  ]
+}
